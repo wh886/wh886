@@ -1,11 +1,5 @@
-- 👋 Hi, I’m @wh886
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...mail~2697964773@qq.com
-
-<!---
-wh886/wh886 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
-哈哈，写着玩~
---->
+你好，我是@wh886
+我感兴趣的是...
+🌱我目前正在学习...
+💞️我想和你合作.
+📫如何到达我.邮箱：2697964773@qq.com
